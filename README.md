@@ -4,7 +4,7 @@
   <img src="https://your-image-url.type" alt="Gustavo Almeida dos Santos" />
 </p> -->
 
-Olá! Meu nome é **Gustavo Almeida dos Santos**, tenho 20 anos e sou estudante de **Análise e Desenvolvimento de Sistemas**, com uma sólida experiência em Administração. Estou muito animado em aplicar minhas habilidades tecnológicas e conhecimentos em programação para contribuir com outros projetos desafiadores.
+Olá! Meu nome é **Gustavo Almeida dos Santos**, tenho 20 anos e sou estudante de **Análise e Desenvolvimento de Sistemas**, também posssuo experiência em Administração. Estou muito animado em aplicar minhas habilidades tecnológicas e conhecimentos em programação para contribuir com outros projetos desafiadores.
 
 Durante meus estudos adquiri conhecimentos em **VBA, HTML, CSS, JS e Python**, o que me permite trabalhar em projetos diversificados e enfrentar diferentes desafios tecnológicos.
 
