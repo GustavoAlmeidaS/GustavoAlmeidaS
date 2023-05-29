@@ -27,6 +27,9 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na **Fatec
 - **Técnico em Administração** - ETEC JK
 - **Análise e Desenvolvimento de Sistemas** - Fatec SP
 
+![GustavoAlmeidaS's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoalmeidaS&show_icons=true&theme=gruvbox)
+  
+
 ## :pushpin: Contato
 
 Se você quiser entrar em contato ou saber mais sobre mim, sinta-se à vontade para visitar meu perfil no LinkedIn:
