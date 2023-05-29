@@ -31,6 +31,6 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na **Fatec
 
 Se você quiser entrar em contato ou saber mais sobre mim, sinta-se à vontade para visitar meu perfil no LinkedIn:
 
-[![LinkedIn]([https://your-linkedin-icon-url.type](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain-wordmark.svg))](https://www.linkedin.com/in/gustavo-almeida-dos-santos/)
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain-wordmark.svg)](https://www.linkedin.com/in/gustavo-almeida-dos-santos/)
 
 Obrigado por visitar o meu perfil e ficarei feliz em colaborar com você em projetos interessantes! :rocket:
