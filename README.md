@@ -1,8 +1,8 @@
 # Bem-vindo ao meu perfil do GitHub! :wave:
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://your-image-url.type" alt="Gustavo Almeida dos Santos" />
-</p>
+</p> -->
 
 Olá! Meu nome é **Gustavo Almeida dos Santos**, tenho 20 anos e sou estudante de **Análise e Desenvolvimento de Sistemas**, com uma sólida experiência em Administração. Estou muito animado em aplicar minhas habilidades tecnológicas e conhecimentos em programação para contribuir com outros projetos desafiadores.
 
@@ -32,6 +32,6 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na **Fatec
 Se você quiser entrar em contato ou saber mais sobre mim, sinta-se à vontade para visitar meu perfil no LinkedIn:
 
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain-wordmark.svg" alt="LinkedIn" width="50" style="padding-right: 10px" />](https://www.linkedin.com/in/gustavo-almeida-dos-santos/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn" width="200" style="padding-right: 10px" />](https://www.linkedin.com/in/gustavo-almeida-dos-santos/)
 
 Obrigado por visitar o meu perfil e ficarei feliz em colaborar com você em projetos interessantes! :rocket:
